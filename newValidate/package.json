@@ -1,0 +1,18 @@
+{
+  "name": "testgulp",
+  "version": "1.0.0",
+  "description": "testGulp for automatic dependency management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mausham",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "latest",
+    "cucumber": "latest",
+    "gulp": "^3.9.1",
+    "hashmap": "^2.1.0",
+    "npm-bundle": "3.0.3"
+  }
+}
